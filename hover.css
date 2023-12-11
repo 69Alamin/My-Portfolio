@@ -1,0 +1,74 @@
+.div2>ul>li>a:hover{
+    border: 1px solid;
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+.div4>ul>li>a:hover{
+    border: 1px solid wheat;
+    border-radius: 80%;
+    box-shadow:white 2px 2px 2px 2px;
+    text-align: center;
+
+}
+.div5>span:hover{
+  visibility: visible;
+  color: aliceblue;
+  z-index: 2;
+}
+.div5:hover{
+    border:0px;
+    border-radius: 20%;
+    box-shadow: 7px 7px 7px 7px whitesmoke;
+}
+
+
+.div6:hover{
+    font-size: 20px;
+    border:0px;
+    border-radius: 20%;
+    box-shadow: 7px 7px 7px 7px whitesmoke;
+}
+ /*form*/
+input[type=text], select, textarea {
+    width: 50%;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-bottom: 8px;
+    resize: vertical ;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  form{
+    text-align: center;
+  }
+  .div7:hover{
+    font-size: 20px;
+    border:0px;
+    border-radius: 20%;
+    box-shadow: 7px 7px 7px 7px whitesmoke;
+  }
+
+  .fotimg:hover{ 
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px 10px salmon;
+  }
+  
+ 
